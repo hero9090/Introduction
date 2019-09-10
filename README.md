@@ -1,6 +1,6 @@
 # Introduction
-Dtick
-Ticker D adalah Ekosistem Penjualan Ticket Digital yang 
+D-tick
+D-Tick adalah Ekosistem Penjualan Ticket Digital yang 
 terdesentralisasi dengan jaringan Blockchain. dimana nantinya akan 
 terdapat berbagai macam tiket yang terdaftar di Dtick Store. 
 Tujuan kami adalah menjadi platform penjualan tiket secara global 
